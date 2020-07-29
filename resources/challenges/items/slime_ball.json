@@ -1,0 +1,23 @@
+{
+  "value": 10,
+  "disabled": 0,
+  "type": "item",
+  "icon": {
+    "item": "minecraft:slime_ball",
+    "data": 1
+  },
+  "title": "advancements.skyblock.slime_ball.title",
+  "description": "advancements.skyblock.slime_ball.description",
+  "items": [
+    {
+      "item": "minecraft:slime_ball",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "item": "minecraft:piston",
+      "count": 1
+    }
+  ]
+}

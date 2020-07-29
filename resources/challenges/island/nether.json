@@ -1,0 +1,25 @@
+{
+  "value": 10,
+  "disabled": 1,
+  "type": "block",
+  "singleuse": 1,
+  "icon": {
+    "item": "minecraft:portal",
+    "data": 0
+  },
+  "title": "advancements.skyblock.nether.title",
+  "description": "advancements.skyblock.nether.description",
+  "items": [],
+  "blocks": [
+    {
+      "item": "minecraft:portal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "item": "minecraft:obsidian",
+      "count": 4
+    }
+  ]
+}

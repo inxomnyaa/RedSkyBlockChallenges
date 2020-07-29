@@ -1,0 +1,24 @@
+{
+  "value": 10,
+  "disabled": 0,
+  "type": "item",
+  "icon": {
+    "item": "minecraft:ender_pearl",
+    "data": 0
+  },
+  "title": "advancements.skyblock.ender_pearl.title",
+  "description": "advancements.skyblock.ender_pearl.description",
+  "items": [
+    {
+      "item": "minecraft:ender_pearl",
+      "count": 16
+    }
+  ],
+  "rewards": [
+    {
+      "item": "minecraft:end_portal_frame",
+      "data": 0,
+      "count": 1
+    }
+  ]
+}

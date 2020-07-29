@@ -1,0 +1,39 @@
+{
+  "value": 10,
+  "disabled": 0,
+  "type": "item",
+  "icon": {
+    "item": "minecraft:cobblestone",
+    "data": 0
+  },
+  "title": "advancements.skyblock.cobblestone.title",
+  "description": "advancements.skyblock.cobblestone.description",
+  "items": [
+    {
+      "item": "minecraft:cobblestone",
+      "count": 64
+    }
+  ],
+  "rewards": [
+    {
+      "item": "minecraft:sapling",
+      "count": 1,
+      "data": 0
+    },
+    {
+      "item": "minecraft:sapling",
+      "count": 1,
+      "data": 1
+    },
+    {
+      "item": "minecraft:sapling",
+      "count": 1,
+      "data": 2
+    },
+    {
+      "item": "minecraft:sapling",
+      "count": 1,
+      "data": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "value": 10,
+  "disabled": 0,
+  "type": "item",
+  "icon": {
+    "item": "minecraft:log",
+    "data": 0
+  },
+  "title": "advancements.skyblock.log.title",
+  "description": "advancements.skyblock.log.description",
+  "items": [
+    {
+      "item": "minecraft:log",
+      "data": 0,
+      "count": 64
+    },
+    {
+      "item": "minecraft:log",
+      "data": 1,
+      "count": 64
+    },
+    {
+      "item": "minecraft:log",
+      "data": 2,
+      "count": 64
+    },
+    {
+      "item": "minecraft:log",
+      "data": 3,
+      "count": 64
+    }
+  ],
+  "rewards": [
+    {
+      "item": "minecraft:dirt",
+      "count": 16,
+      "data": 0
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "value": 10,
+  "disabled": 0,
+  "type": "item",
+  "icon": {
+    "item": "minecraft:sapling",
+    "data": 1
+  },
+  "title": "advancements.skyblock.all_saplings.title",
+  "description": "advancements.skyblock.all_saplings.description",
+  "items": [
+    {
+      "item": "minecraft:sapling",
+      "data": 0,
+      "count": 1
+    },
+    {
+      "item": "minecraft:sapling",
+      "data": 1,
+      "count": 1
+    },
+    {
+      "item": "minecraft:sapling",
+      "data": 2,
+      "count": 1
+    },
+    {
+      "item": "minecraft:sapling",
+      "data": 3,
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "item": "minecraft:dirt",
+      "count": 4
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+name: RedSkyBlockChallenges
+author: XenialDan
+version: 0.0.0
+api: 3.0.0, 4.0.0
+main: xenialdan\RedSkyBlockChallenges\Loader
+depend: RedSkyBlock
+permissions:
+    skyblock.island.challenges:
+      description: With this permission players can change use challenges.
+      default: true

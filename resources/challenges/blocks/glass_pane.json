@@ -1,0 +1,24 @@
+{
+  "value": 10,
+  "disabled": 0,
+  "type": "item",
+  "icon": {
+    "item": "minecraft:glass_pane",
+    "data": 0
+  },
+  "title": "advancements.skyblock.glass_pane.title",
+  "description": "advancements.skyblock.glass_pane.description",
+  "items": [
+    {
+      "item": "minecraft:glass_pane",
+      "count": 16
+    }
+  ],
+  "rewards": [
+    {
+      "item": "minecraft:torch",
+      "count": 64,
+      "data": 0
+    }
+  ]
+}

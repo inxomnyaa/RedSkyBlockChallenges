@@ -1,0 +1,34 @@
+{
+  "value": 10,
+  "disabled": 1,
+  "type": "block",
+  "singleuse": 1,
+  "icon": {
+    "item": "minecraft:cobblestone",
+    "data": 0
+  },
+  "title": "advancements.skyblock.cobblestone_generator.title",
+  "description": "advancements.skyblock.cobblestone_generator.description",
+  "items": [],
+  "blocks": [
+    {
+      "item": "minecraft:lava",
+      "count": 1
+    },
+    {
+      "item": "minecraft:water",
+      "count": 1
+    },
+    {
+      "item": "minecraft:cobblestone",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "item": "minecraft:bucket",
+      "count": 1,
+      "data": 10
+    }
+  ]
+}

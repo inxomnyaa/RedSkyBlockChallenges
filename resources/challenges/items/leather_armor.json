@@ -1,0 +1,35 @@
+{
+  "value": 10,
+  "disabled": 0,
+  "type": "item",
+  "icon": {
+    "item": "minecraft:leather_chestplate",
+    "data": 0
+  },
+  "title": "advancements.skyblock.leather_armor.title",
+  "description": "advancements.skyblock.leather_armor.description",
+  "items": [
+    {
+      "item": "minecraft:leather_helmet",
+      "count": 1
+    },
+    {
+      "item": "minecraft:leather_chestplate",
+      "count": 1
+    },
+    {
+      "item": "minecraft:leather_leggings",
+      "count": 1
+    },
+    {
+      "item": "minecraft:leather_boots",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "item": "minecraft:chainmail_chestplate",
+      "count": 1
+    }
+  ]
+}

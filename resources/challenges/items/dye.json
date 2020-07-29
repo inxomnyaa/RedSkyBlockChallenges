@@ -1,0 +1,99 @@
+{
+  "value": 10,
+  "disabled": 0,
+  "type": "item",
+  "icon": {
+    "item": "minecraft:dye",
+    "data": 5
+  },
+  "title": "advancements.skyblock.dye.title",
+  "description": "advancements.skyblock.dye.description",
+  "items": [
+    {
+      "item": "minecraft:dye",
+      "data": 0,
+      "count": 1
+    },
+    {
+      "item": "minecraft:dye",
+      "data": 1,
+      "count": 1
+    },
+    {
+      "item": "minecraft:dye",
+      "data": 2,
+      "count": 1
+    },
+    {
+      "item": "minecraft:dye",
+      "data": 3,
+      "count": 1
+    },
+    {
+      "item": "minecraft:dye",
+      "data": 4,
+      "count": 1
+    },
+    {
+      "item": "minecraft:dye",
+      "data": 5,
+      "count": 1
+    },
+    {
+      "item": "minecraft:dye",
+      "data": 6,
+      "count": 1
+    },
+    {
+      "item": "minecraft:dye",
+      "data": 7,
+      "count": 1
+    },
+    {
+      "item": "minecraft:dye",
+      "data": 8,
+      "count": 1
+    },
+    {
+      "item": "minecraft:dye",
+      "data": 9,
+      "count": 1
+    },
+    {
+      "item": "minecraft:dye",
+      "data": 10,
+      "count": 1
+    },
+    {
+      "item": "minecraft:dye",
+      "data": 11,
+      "count": 1
+    },
+    {
+      "item": "minecraft:dye",
+      "data": 12,
+      "count": 1
+    },
+    {
+      "item": "minecraft:dye",
+      "data": 13,
+      "count": 1
+    },
+    {
+      "item": "minecraft:dye",
+      "data": 14,
+      "count": 1
+    },
+    {
+      "item": "minecraft:dye",
+      "data": 15,
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "item": "minecraft:bone",
+      "count": 32
+    }
+  ]
+}

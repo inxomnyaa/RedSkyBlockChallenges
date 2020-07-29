@@ -1,0 +1,23 @@
+{
+  "value": 10,
+  "disabled": 0,
+  "type": "item",
+  "icon": {
+    "item": "minecraft:dirt",
+    "data": 0
+  },
+  "title": "advancements.skyblock.dirt.title",
+  "description": "advancements.skyblock.dirt.description",
+  "items": [
+    {
+      "item": "minecraft:dirt",
+      "count": 64
+    }
+  ],
+  "rewards": [
+    {
+      "item": "minecraft:grass",
+      "count": 1
+    }
+  ]
+}

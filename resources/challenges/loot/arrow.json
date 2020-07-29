@@ -1,0 +1,23 @@
+{
+  "value": 10,
+  "disabled": 0,
+  "type": "item",
+  "icon": {
+    "item": "minecraft:arrow",
+    "data": 0
+  },
+  "title": "advancements.skyblock.arrow.title",
+  "description": "advancements.skyblock.arrow.description",
+  "items": [
+    {
+      "item": "minecraft:arrow",
+      "count": 64
+    }
+  ],
+  "rewards": [
+    {
+      "item": "minecraft:iron_ore",
+      "count": 1
+    }
+  ]
+}

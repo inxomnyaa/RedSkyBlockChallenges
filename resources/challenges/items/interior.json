@@ -1,0 +1,31 @@
+{
+  "value": 10,
+  "disabled": 0,
+  "type": "item",
+  "icon": {
+    "item": "minecraft:painting",
+    "data": 0
+  },
+  "title": "advancements.skyblock.interior.title",
+  "description": "advancements.skyblock.interior.description",
+  "items": [
+    {
+      "item": "minecraft:torch",
+      "count": 16
+    },
+    {
+      "item": "minecraft:bookshelf",
+      "count": 16
+    },
+    {
+      "item": "minecraft:painting",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "item": "minecraft:enchanting_table",
+      "count": 1
+    }
+  ]
+}

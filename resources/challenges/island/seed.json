@@ -1,0 +1,26 @@
+{
+  "value": 10,
+  "disabled": 1,
+  "type": "block",
+  "singleuse": 1,
+  "icon": {
+    "item": "minecraft:wheat",
+    "data": 0
+  },
+  "title": "advancements.skyblock.seed.title",
+  "description": "advancements.skyblock.seed.description",
+  "items": [],
+  "blocks": [
+    {
+      "item": "minecraft:wheat",
+      "data": 7,
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "item": "minecraft:apple",
+      "count": 1
+    }
+  ]
+}
